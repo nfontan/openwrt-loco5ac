@@ -3,7 +3,7 @@
 This project contains a custom configuration to build OpenWrt 24.10.1 for the **Ubiquiti NanoStation loco AC** device (`ubnt_nanostation-ac-loco`), featuring:
 
 - The LuCI web interface
-- A kernel patch for early MTD SPI setup (Thanks @aanon4) https://github.com/openwrt/openwrt/issues/17285
+- A kernel patch for early MTD SPI setup (Thanks [@aanon4](https://github.com/aanon4)) https://github.com/openwrt/openwrt/issues/17285
 - Reproducible builds using Docker
 - A stripped-down config for faster builds
 
